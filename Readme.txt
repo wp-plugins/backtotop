@@ -31,6 +31,8 @@ Uninstalling is as simple as deactivating the plugin.
 
 1. Website or Front End Screenshot
 
+2. Admin panel or back End Screenshot
+
 3. Back To Top Settings
 
 == Frequently Asked Questions ==
