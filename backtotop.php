@@ -14,7 +14,7 @@ define('PLUGIN_DIR_NAME', 'backtotop');
 class backtotop{
 	function __construct(){
 		add_action("wp_enqueue_scripts",array(&$this,'register_javascript'));
-		
+		add_action("wp_enqueue_scripts",array(&$this,'register_css'));
 		add_action("wp_footer",array(&$this,'add_my_div'));
 		add_action("admin_menu",array(&$this,'add_my_menu'));
 		}
@@ -32,7 +32,11 @@ class backtotop{
 		wp_enqueue_script('backtotopjs');
 		}
 		
-	\	
+	function register_css(){
+		wp_register_style('backtotopcss',plugins_url(PLUGIN_DIR_NAME.'/css/backtotopbyarka.css'));
+		wp_enqueue_style('backtotopcss');
+		
+		}
 	function add_my_menu(){
 		
 		add_options_page('Back To Top Settings','Back To Top Settings','6','backtotopmenu',array(&$this,'my_menu_content'));
