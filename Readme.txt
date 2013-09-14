@@ -13,7 +13,7 @@ This plugin will create a "back to top" or "scroll to top button" for your websi
 Demo link:http://www.pilgrimsholidays.com 
  
  
-Developed By : Arkaprava majumder (http:arkapravamajumder.com)
+Developed By : Arkaprava majumder (http://arkapravamajumder.com)
 
 == Installation ==
 
