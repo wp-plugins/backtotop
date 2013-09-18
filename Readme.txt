@@ -6,7 +6,7 @@ Tested up to: 3.6.1
 Stable tag: trunk
 License: GPL or later
 
-This plugin will create a "back to top" or "scroll to top button" for your website. You can select an image from list or upload your own image or create an button using text.
+This plugin will create a "back to top" or "scroll to top button" for your website.
 == Description ==
 
 This plugin will create a "back to top" or "scroll to top button" for your website. You can select an image from list or upload your own image or create an button using text. Total solution of Back To Top button.
@@ -56,4 +56,5 @@ or, Tweet me (http://twitter.com/arkaindas)
 = Version 2.0 =
 = Version 1.0 =
 
-
+== Upgrade Notice ==
+Yeah.Now version 2 available with totally customizable solution.
