@@ -55,6 +55,7 @@ or, Tweet me (http://twitter.com/arkaindas)
 = Version 1.0 =
 
 == Upgrade Notice ==
+= 2.0 =
 Yeah.Now version 2 available with totally customizable solution.
 
 
