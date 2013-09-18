@@ -6,10 +6,10 @@ Tested up to: 3.6.1
 Stable tag: trunk
 License: GPL or later
 
-This plugin will create a "back to top" or "scroll to top button" for your website with smooth scrolling and 25 images.
+This plugin will create a "back to top" or "scroll to top button" for your website. You can select an image from list or upload your own image or create an button using text.
 == Description ==
 
-This plugin will create a "back to top" or "scroll to top button" for your website with smooth scrolling and 25 images.
+This plugin will create a "back to top" or "scroll to top button" for your website. You can select an image from list or upload your own image or create an button using text. Total solution of Back To Top button.
 Demo link:http://www.pilgrimsholidays.com 
  
  
@@ -21,10 +21,21 @@ Developed By : Arkaprava majumder (http://arkapravamajumder.com)
 2. Upload to your Site,(/wp-content/plugins/)
 3. Activate it.
 
-Now, Go to Setting----> Back To Top Setting----> Choose Any image----> Then save it.
+Now, Go to ,Back To Top ---->Then, Back To Top Options ----> Choose An Option ----> 1) Choose An Image From The Given List or 2) Upload Your Back To Top Image or 3) Create A Back To Top Icon With Text
 
-Yeah! You're done!
+Then Click "Next...".
 
+Corresponding option box will open, jsut do it as you want.
+
+Yeah! You're almost done!
+
+If you are crazzy, want to customize more, then click "Back To Top Settings" ----> Then choose a effect like (SlideUp/SlideDown or FadeIn/FadeOut or Hide/Show),
+You can also customize Css too.
+Just edit Css & Hover css, then Save it.
+YO. All IZZ READY. 
+NOw, YOU CAN CHECK BACK TO TOP ON YOUR WEBSITE.
+For morehelp or customization, feelfree to contact me.
+http://arkapravamajumder.com
 Uninstalling is as simple as deactivating the plugin.
 
 == Screenshots ==
@@ -42,6 +53,7 @@ or, Fb me Arkaprava majumder (http://fb.com/arkaindas)
 or, Tweet me (http://twitter.com/arkaindas)
 
 == Change Log ==
+= Version 2.0 =
 = Version 1.0 =
 
 
