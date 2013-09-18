@@ -43,13 +43,6 @@ http://arkapravamajumder.com
 
 Uninstalling is as simple as deactivating the plugin.
 
-== Screenshots ==
-
-1. Website or Front End Screenshot
-
-2. Admin panel or back End Screenshot
-
-3. Back To Top Settings
 
 == Frequently Asked Questions ==
 
@@ -63,3 +56,10 @@ or, Tweet me (http://twitter.com/arkaindas)
 
 == Upgrade Notice ==
 Yeah.Now version 2 available with totally customizable solution.
+
+
+== Screenshots ==
+
+1. Website or Front End Screenshot
+2. Admin panel or back End Screenshot
+3. Back To Top Settings
