@@ -33,9 +33,10 @@ If you are crazzy, want to customize more, then click "Back To Top Settings" ---
 You can also customize Css too.
 Just edit Css & Hover css, then Save it.
 YO. All IZZ READY. 
-NOw, YOU CAN CHECK BACK TO TOP ON YOUR WEBSITE.
-For morehelp or customization, feelfree to contact me.
+NOW, YOU CAN CHECK BACK TO TOP ON YOUR WEBSITE.
+For more help or customization, feel free to contact with me.
 http://arkapravamajumder.com
+
 Uninstalling is as simple as deactivating the plugin.
 
 == Screenshots ==
