@@ -32,7 +32,11 @@ Yeah! You're almost done!
 If you are crazzy, want to customize more, then click "Back To Top Settings" ----> Then choose a effect like (SlideUp/SlideDown or FadeIn/FadeOut or Hide/Show),
 You can also customize Css too.
 Just edit Css & Hover css, then Save it.
-YO. All IZZ READY. 
+
+YO. 
+
+All IZZ READY. 
+
 NOW, YOU CAN CHECK BACK TO TOP ON YOUR WEBSITE.
 For more help or customization, feel free to contact with me.
 http://arkapravamajumder.com
