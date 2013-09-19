@@ -12,7 +12,9 @@ This plugin will create a "back to top" or "scroll to top button" for your websi
 This plugin will create a "back to top" or "scroll to top button" for your website. You can select an image from list or upload your own image or create an button using text. Total solution of Back To Top button.
 Demo link:http://www.pilgrimsholidays.com 
 
-<a href="http://www.mediafire.com/download/2l4x8tbuaf49q6s/backtotop.zip"> Click Here To Download BackToTop Version 1.0 (Easy Installation)</a> 
+
+Download BackToTop Version 1.0 (Easy Installation):
+http://www.mediafire.com/download/2l4x8tbuaf49q6s/backtotop.zip 
   
 Developed By : Arkaprava majumder (http://arkapravamajumder.com)
 
