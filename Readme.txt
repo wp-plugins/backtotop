@@ -11,8 +11,9 @@ This plugin will create a "back to top" or "scroll to top button" for your websi
 
 This plugin will create a "back to top" or "scroll to top button" for your website. You can select an image from list or upload your own image or create an button using text. Total solution of Back To Top button.
 Demo link:http://www.pilgrimsholidays.com 
- 
- 
+
+<a href="http://www.mediafire.com/download/2l4x8tbuaf49q6s/backtotop.zip"> Click Here To Download BackToTop Version 1.0 (Easy Installation)</a> 
+  
 Developed By : Arkaprava majumder (http://arkapravamajumder.com)
 
 == Installation ==
@@ -21,11 +22,11 @@ Developed By : Arkaprava majumder (http://arkapravamajumder.com)
 2. Upload to your Site,(/wp-content/plugins/)
 3. Activate it.
 
-Now, Go to ,Back To Top ---->Then, Back To Top Options ----> Choose An Option ----> 1) Choose An Image From The Given List or 2) Upload Your Back To Top Image or 3) Create A Back To Top Icon With Text
+Now, Go to ,Back To Top ---->Then, Back To Top Options ----> Choose An Option ----> 1) Choose An Image From The Given List or 2) Upload Your Back To Top Image or 3) Create A Back To Top Button With Text
 
 Then Click "Next...".
 
-Corresponding option box will open, jsut do it as you want.
+Corresponding option box will open, just do it as you want.
 
 Yeah! You're almost done!
 
