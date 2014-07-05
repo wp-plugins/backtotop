@@ -1,5 +1,5 @@
 === Back To Top ===
-Contributors: Arkaprava Majumder
+Contributors: arkapravamajumder
 Tags: backtotop,scrolltotop, top, smooth scroll to top
 Requires at least: 2.5.1
 Tested up to: 3.6.1
