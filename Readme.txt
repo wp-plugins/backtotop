@@ -2,7 +2,7 @@
 Contributors: arkapravamajumder
 Tags: backtotop,scrolltotop, top, smooth scroll to top
 Requires at least: 2.5.1
-Tested up to: 3.6.1
+Tested up to: 4.2
 Stable tag: trunk
 License: GPL or later
 
@@ -13,10 +13,8 @@ This plugin will create a "back to top" or "scroll to top button" for your websi
 Demo link:http://www.pilgrimsholidays.com 
 
 
-Download BackToTop Version 1.0 (Easy Installation):
-http://www.mediafire.com/download/2l4x8tbuaf49q6s/backtotop.zip 
   
-Developed By : Arkaprava majumder (http://arkapravamajumder.com)
+Developed By : Arkaprava majumder (http://coderexample.com)
 
 == Installation ==
 
